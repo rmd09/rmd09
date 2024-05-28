@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=40&duration=3000&pause=500&color=F76939&center=true&vCenter=true&random=false&width=435&height=150&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E%2C+%D0%B4%D1%80%D1%83%D0%B3%F0%9F%91%8B;%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC;%D0%A0%D0%B0%D0%B4+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C%F0%9F%98%89)
-
 <img src="https://media.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" style="margin-left: 150px;" />
 <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" style="margin-left: 40px;" />
 
